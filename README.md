@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/mohid-s-57207b416/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:mohammedmohid810@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 <a href="https://mohidresume.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=Mohid555-github&style=flat-square&color=70a5fd" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Mohid555&style=flat-square&color=70a5fd" alt="profile views"/>
 
 </div>
 
@@ -61,16 +61,16 @@ const mohid = {
 
 <div align="center">
 
-<a href="https://github.com/Mohid555-github">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mohid555-github&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+<a href="https://github.com/Mohid555">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mohid555&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
 </a>
-<a href="https://github.com/Mohid555-github">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohid555-github&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+<a href="https://github.com/Mohid555">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohid555&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
 </a>
 
-<img src="https://streak-stats.demolab.com?user=Mohid555-github&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" width="65%"/>
+<img src="https://streak-stats.demolab.com?user=Mohid555&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" width="65%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohid555-github&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohid555&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="95%"/>
 
 </div>
 
@@ -79,7 +79,7 @@ const mohid = {
 ## 🏆 Trophy Wall
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Mohid555-github&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Mohid555&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
 </div>
 
 <br/>
