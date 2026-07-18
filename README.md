@@ -13,7 +13,6 @@
 
 <div align="center">
 
-<sub><i>Custom-built animated banner — see setup note at the bottom if it doesn't load yet.</i></sub>
 
 <br/><br/>
 
@@ -171,8 +170,3 @@ philosophy: "Clean UI. Clean code. Real impact." 🚀
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:FF6B9D,50:C86DD7,100:4D96FF"/>
-
-<div align="center">
-<sub>🐍 <b>To activate the contribution snake:</b> add <code>snake.yml</code> to <code>.github/workflows/</code> in this repo, then run it once from the Actions tab.</sub>
-</div>
