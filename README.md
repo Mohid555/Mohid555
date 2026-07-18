@@ -109,18 +109,6 @@ philosophy: "Clean UI. Clean code. Real impact." 🚀
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohid555&theme=dark&bg_color=0d1117" width="47%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mohid555&theme=dark&bg_color=0d1117" width="47%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mohid555&theme=dark&bg_color=0d1117" width="47%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mohid555&theme=dark&bg_color=0d1117" width="47%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Mohid555&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=FF6B9D&icon_color=FFC75F&text_color=e6e6e6&ring_color=C86DD7"/>
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohid555&layout=compact&hide_border=true&bg_color=0d1117&title_color=FF6B9D&text_color=e6e6e6&langs_count=8&border_radius=12"/>
 
