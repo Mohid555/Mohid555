@@ -1,0 +1,86 @@
+<svg width="1200" height="340" viewBox="0 0 1200 340" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="45%">
+        <animate attributeName="stop-color" values="#1a0f2e;#2a1240;#1a0f2e" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF6B9D"/>
+      <stop offset="50%" stop-color="#C86DD7"/>
+      <stop offset="100%" stop-color="#4D96FF">
+        <animate attributeName="offset" values="1;0.6;1" dur="5s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#FF6B9D" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#FF6B9D" stop-opacity="0"/>
+    </radialGradient>
+
+    <clipPath id="avatarClip">
+      <circle cx="140" cy="170" r="72"/>
+    </clipPath>
+
+    <filter id="softBlur"><feGaussianBlur stdDeviation="1.4"/></filter>
+  </defs>
+
+  <rect width="1200" height="340" fill="url(#bgGrad)"/>
+
+  <!-- floating particles -->
+  <circle cx="980" cy="60" r="3" fill="#FFC75F" opacity="0.8">
+    <animate attributeName="cy" values="60;40;60" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.8;0.2;0.8" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1040" cy="120" r="4" fill="#FF6B9D" opacity="0.7">
+    <animate attributeName="cy" values="120;95;120" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.7;0.15;0.7" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="900" cy="220" r="2.5" fill="#4D96FF" opacity="0.75">
+    <animate attributeName="cy" values="220;195;220" dur="3.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.75;0.2;0.75" dur="3.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1100" cy="250" r="3.5" fill="#C86DD7" opacity="0.7">
+    <animate attributeName="cy" values="250;225;250" dur="4.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.7;0.2;0.7" dur="4.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1150" cy="90" r="2" fill="#FFC75F" opacity="0.6">
+    <animate attributeName="cy" values="90;70;90" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1000" cy="290" r="2.5" fill="#FF6B9D" opacity="0.5">
+    <animate attributeName="cy" values="290;270;290" dur="5.5s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- avatar glow + rotating ring -->
+  <circle cx="140" cy="170" r="100" fill="url(#glow)"/>
+  <circle cx="140" cy="170" r="82" fill="none" stroke="url(#nameGrad)" stroke-width="2.5" stroke-dasharray="10 6" opacity="0.85">
+    <animateTransform attributeName="transform" type="rotate" from="0 140 170" to="360 140 170" dur="14s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="140" cy="170" r="74" fill="#0d1117" stroke="#0d1117" stroke-width="3"/>
+  <image href="https://github.com/Mohid555.png" x="68" y="98" width="144" height="144" clip-path="url(#avatarClip)"/>
+
+  <!-- name -->
+  <text x="270" y="150" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="52" font-weight="800" fill="url(#nameGrad)" opacity="0">
+    Mohid S
+    <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.1;0.35" dur="1s" fill="freeze"/>
+  </text>
+
+  <!-- role line -->
+  <text x="272" y="188" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="19" font-weight="600" fill="#e6e6e6" opacity="0">
+    Software Developer &#8226; React JS &#8226; React Native &#8226; JavaScript
+    <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.28;0.5" dur="1.4s" fill="freeze"/>
+  </text>
+
+  <!-- tagline chip -->
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.4;0.65" dur="1.8s" fill="freeze"/>
+    <rect x="272" y="210" width="430" height="36" rx="18" fill="#161b22" stroke="#FFC75F" stroke-width="1.2"/>
+    <text x="292" y="234" font-family="'Fira Code', monospace" font-size="14.5" fill="#FFC75F">3+ years shipping real web &amp; mobile apps</text>
+  </g>
+
+  <!-- bottom accent line -->
+  <rect x="0" y="334" width="1200" height="6" fill="url(#nameGrad)"/>
+</svg>
