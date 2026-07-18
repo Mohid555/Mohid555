@@ -1,26 +1,43 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Mohid%20S&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=34&desc=Software%20Developer%20%E2%80%A2%20React%20JS%20%E2%80%A2%20React%20Native%20%E2%80%A2%20JavaScript&descAlignY=52&descSize=17&color=0:FF6B9D,50:C86DD7,100:4D96FF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&animation=fadeIn&color=0:FF6B9D,50:C86DD7,100:4D96FF" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&duration=2800&pause=900&color=FFC75F&center=true&vCenter=true&width=780&lines=%3C+Building+live+products%2C+not+prototypes+%2F%3E;React+JS+%7C+React+Native+%7C+JavaScript;3%2B+years+shipping+real+web+%26+mobile+apps" alt="Typing SVG"/>
+<img src="https://github.com/Mohid555.png" width="130" style="border-radius:50%;margin-top:-140px;border:5px solid #0d1117;"/>
+
+<h1>Hi, I'm Mohid S 👋</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=2800&pause=900&color=FFC75F&center=true&vCenter=true&width=780&lines=%3C+Software+Developer+%2F%3E;React+JS+%E2%80%A2+React+Native+%E2%80%A2+JavaScript;3%2B+years+shipping+real+web+%26+mobile+apps" alt="Typing SVG"/>
 
 <br/>
 
 <a href="https://www.linkedin.com/in/mohid-s-57207b416/"><img src="https://img.shields.io/badge/LinkedIn-FF6B9D?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/></a>
 <a href="mailto:mohammedmohid810@gmail.com"><img src="https://img.shields.io/badge/Email-FFC75F?style=for-the-badge&logo=gmail&logoColor=0d1117&labelColor=0d1117"/></a>
 <a href="https://mohidresume.netlify.app"><img src="https://img.shields.io/badge/Portfolio-C86DD7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117"/></a>
-<br/>
-<img src="https://komarev.com/ghpvc/?username=Mohid555&style=for-the-badge&color=4D96FF&labelColor=0d1117" alt="profile views"/>
+<a href="https://github.com/Mohid555"><img src="https://img.shields.io/badge/GitHub-4D96FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/></a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/github/followers/Mohid555?style=for-the-badge&color=FF6B9D&labelColor=0d1117&label=FOLLOWERS"/>
+<img src="https://img.shields.io/github/stars/Mohid555?style=for-the-badge&color=FFC75F&labelColor=0d1117&label=STARS"/>
+<img src="https://komarev.com/ghpvc/?username=Mohid555&style=for-the-badge&color=4D96FF&labelColor=0d1117&label=PROFILE+VIEWS"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:FF6B9D,50:C86DD7,100:4D96FF&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:FF6B9D,50:C86DD7,100:4D96FF" width="100%"/>
+
+<br/>
+
+<div align="center">
+
+[![Readme Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Clean+UI.+Clean+code.+Real+impact.&author=Mohid+S)](https://github.com/Mohid555)
+
+</div>
 
 <br/>
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="58%" valign="top">
 
 ### 🪄 About Me
 
@@ -44,13 +61,13 @@ philosophy: "Clean UI. Clean code. Real impact." 🚀
 ```
 
 </td>
-<td width="40%" valign="top">
+<td width="42%" valign="top">
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%"/>
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:4D96FF,50:C86DD7,100:FF6B9D&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:4D96FF,50:C86DD7,100:FF6B9D" width="100%"/>
 
 ## ⚡ Tech Arsenal
 
@@ -86,9 +103,21 @@ philosophy: "Clean UI. Clean code. Real impact." 🚀
 </td></tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:FF6B9D,50:C86DD7,100:4D96FF&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:FF6B9D,50:C86DD7,100:4D96FF" width="100%"/>
 
-## 📊 The Numbers
+## 📊 Profile Dashboard
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohid555&theme=dark&bg_color=0d1117" width="47%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mohid555&theme=dark&bg_color=0d1117" width="47%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mohid555&theme=dark&bg_color=0d1117" width="47%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mohid555&theme=dark&bg_color=0d1117" width="47%"/>
+
+</div>
+
+<br/>
 
 <div align="center">
 
@@ -106,10 +135,10 @@ philosophy: "Clean UI. Clean code. Real impact." 🚀
 <div align="center">
 <img src="https://raw.githubusercontent.com/Mohid555/Mohid555/output/github-contribution-grid-snake.svg" width="100%"/>
 
-<sub>⚠️ Renders after you add the one-time GitHub Action below — see setup note under the footer.</sub>
+<sub>⚠️ Renders after you add the one-time GitHub Action — see setup note at the bottom.</sub>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:4D96FF,50:C86DD7,100:FF6B9D&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:4D96FF,50:C86DD7,100:FF6B9D" width="100%"/>
 
 ## 🏆 Trophy Case
 
@@ -117,7 +146,7 @@ philosophy: "Clean UI. Clean code. Real impact." 🚀
 <img src="https://github-profile-trophy.vercel.app/?username=Mohid555&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:FF6B9D,50:C86DD7,100:4D96FF&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:FF6B9D,50:C86DD7,100:4D96FF" width="100%"/>
 
 ## 🚀 Featured Builds
 
@@ -142,7 +171,7 @@ philosophy: "Clean UI. Clean code. Real impact." 🚀
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:4D96FF,50:C86DD7,100:FF6B9D&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:4D96FF,50:C86DD7,100:FF6B9D" width="100%"/>
 
 ## 🎖️ Achievements & Credentials
 
@@ -167,3 +196,6 @@ philosophy: "Clean UI. Clean code. Real impact." 🚀
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:FF6B9D,50:C86DD7,100:4D96FF"/>
 
+<div align="center">
+<sub>🐍 <b>To activate the contribution snake above:</b> add <code>snake.yml</code> to <code>.github/workflows/</code> in this repo, then run it once from the Actions tab.</sub>
+</div>
