@@ -80,15 +80,3 @@ Open to interesting problems and collaboration
 > To enable this automatically, add the [platane/snk](https://github.com/Platane/snk) GitHub Action to this repo's workflows.
 
 ---
-
-### 07. CONNECT
-
-<div align="center">
-
-<a href="https://linkedin.com/in/Mohid555" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0F2027?style=for-the-badge&logo=linkedin&logoColor=00ADB5" alt="LinkedIn"/></a>
-<a href="https://twitter.com/Mohid555" target="_blank"><img src="https://img.shields.io/badge/Twitter-0F2027?style=for-the-badge&logo=x&logoColor=00ADB5" alt="Twitter"/></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-0F2027?style=for-the-badge&logo=gmail&logoColor=00ADB5" alt="Email"/></a>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ADB5,50:2C5364,100:0F2027&height=120&section=footer" width="100%"/>
