@@ -1,79 +1,94 @@
-<h1 align="center">Hi 👋, I'm Mohid</h1>
-<h3 align="center">Software Engineer who loves building clean, useful things</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2ECC71&center=true&vCenter=true&width=500&lines=Software+Engineer;Open+Source+Enthusiast;Always+Learning+New+Tech;Welcome+to+my+Profile!" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00ADB5&height=220&section=header&text=Mohid&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer&descAlignY=58&descSize=20" width="100%"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mohid555&label=Profile%20Views&color=2ecc71&style=flat" alt="Mohid555" />
-  <a href="https://github.com/Mohid555?tab=followers">
-    <img src="https://img.shields.io/github/followers/Mohid555?label=Followers&style=flat&color=2ecc71" alt="followers" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00ADB5&center=true&vCenter=true&width=600&lines=Software+Engineer;Backend+%26+Systems+Enthusiast;Building+Clean%2C+Scalable+Code;Always+Shipping+Something+New" alt="Typing SVG"/>
+
+<img src="https://komarev.com/ghpvc/?username=Mohid555&label=PROFILE%20VIEWS&color=0F2027&style=for-the-badge" alt="Profile Views"/>
+<a href="https://github.com/Mohid555?tab=followers"><img src="https://img.shields.io/github/followers/Mohid555?label=FOLLOWERS&style=for-the-badge&color=00ADB5" alt="Followers"/></a>
+
+</div>
 
 ---
 
-### 🌱 About Me
+### 01. ABOUT
 
-- 🔭 Currently working on **exciting software projects**
-- 🌱 Always learning new tools & technologies
-- 💬 Ask me about **web development, algorithms, and clean code**
-- ⚡ Fun fact: I debug better with coffee ☕
+```
+> whoami
+Mohid — Software Engineer
 
----
+> current.focus
+["backend systems", "clean architecture", "developer tooling"]
 
-### 🛠️ Languages & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,html,css,git,github,vscode,linux,docker&theme=dark" alt="skills" />
-</p>
+> status
+Open to interesting problems and collaboration
+```
 
 ---
 
-### 📊 GitHub Stats
+### 02. TECH STACK
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mohid555&show_icons=true&theme=github_dark&hide_border=true&title_color=2ecc71&icon_color=2ecc71&text_color=c9d1d9&bg_color=0d1117" alt="Mohid555 stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohid555&layout=compact&theme=github_dark&hide_border=true&title_color=2ecc71&text_color=c9d1d9&bg_color=0d1117" alt="Mohid555 top langs"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohid555&theme=github-dark-blue&hide_border=true&background=0D1117&ring=2ECC71&fire=2ECC71&currStreakLabel=2ECC71" alt="Mohid555 streak" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,react,html,css,java,cpp,git,github,docker,linux,vscode,mysql,postgres&theme=dark" alt="Tech Stack"/>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohid555&theme=react-dark&hide_border=true&bg_color=0D1117&color=2ecc71&line=2ecc71&point=ffffff" alt="activity graph" />
-</p>
+</div>
 
 ---
 
-### 🐍 Contribution Snake
+### 03. GITHUB STATS
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Mohid555/Mohid555/output/github-contribution-grid-snake-dark-green.svg" alt="snake animation" />
-</p>
+<div align="center">
 
-> To generate this animated snake automatically, add the **[platane/snk](https://github.com/Platane/snk)** GitHub Action to your profile repo — it renders a green snake eating your contribution graph and updates it on a schedule.
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mohid555&show_icons=true&theme=tokyonight&hide_border=true&title_color=00ADB5&icon_color=00ADB5&text_color=c9d1d9&bg_color=0F2027" alt="Mohid555 Stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohid555&layout=compact&theme=tokyonight&hide_border=true&title_color=00ADB5&text_color=c9d1d9&bg_color=0F2027" alt="Top Languages"/>
 
----
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohid555&theme=tokyonight&hide_border=true&background=0F2027&ring=00ADB5&fire=00ADB5&currStreakLabel=00ADB5" alt="GitHub Streak"/>
 
-### 🤝 Connect with Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/Mohid555" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-2ECC71?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/Mohid555" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-2ECC71?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-2ECC71?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2ECC71&height=120&section=footer" alt="footer wave" />
-</p>
+### 04. ACTIVITY GRAPH
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohid555&theme=react-dark&hide_border=true&bg_color=0F2027&color=00ADB5&line=00ADB5&point=ffffff" alt="Activity Graph" width="95%"/>
+
+</div>
+
+---
+
+### 05. TROPHIES
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Mohid555&theme=darkhub&no-frame=true&no-bg=false&margin-w=8&row=1&column=6" alt="Trophies"/>
+
+</div>
+
+---
+
+### 06. CONTRIBUTION SNAKE
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Mohid555/Mohid555/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+
+</div>
+
+> To enable this automatically, add the [platane/snk](https://github.com/Platane/snk) GitHub Action to this repo's workflows.
+
+---
+
+### 07. CONNECT
+
+<div align="center">
+
+<a href="https://linkedin.com/in/Mohid555" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0F2027?style=for-the-badge&logo=linkedin&logoColor=00ADB5" alt="LinkedIn"/></a>
+<a href="https://twitter.com/Mohid555" target="_blank"><img src="https://img.shields.io/badge/Twitter-0F2027?style=for-the-badge&logo=x&logoColor=00ADB5" alt="Twitter"/></a>
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-0F2027?style=for-the-badge&logo=gmail&logoColor=00ADB5" alt="Email"/></a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ADB5,50:2C5364,100:0F2027&height=120&section=footer" width="100%"/>
