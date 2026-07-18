@@ -1,6 +1,17 @@
 <div align="center">
 
+<table width="100%">
+<tr>
+<td width="150" align="center" valign="middle">
+<img src="https://images.weserv.nl/?url=github.com/Mohid555.png&h=140&w=140&mask=circle&maskbg=0d1117" width="130"/>
+</td>
+<td valign="middle">
 <img src="https://raw.githubusercontent.com/Mohid555/Mohid555/main/hero-banner.svg" width="100%"/>
+</td>
+</tr>
+</table>
+
+<div align="center">
 
 <sub><i>Custom-built animated banner — see setup note at the bottom if it doesn't load yet.</i></sub>
 
