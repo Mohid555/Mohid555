@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&animation=fadeIn&color=0:FF6B9D,50:C86DD7,100:4D96FF" width="100%"/>
+<img src="https://raw.githubusercontent.com/Mohid555/Mohid555/main/assets/hero-banner.svg" width="100%"/>
 
-<img src="https://github.com/Mohid555.png" width="130" style="border-radius:50%;margin-top:-140px;border:5px solid #0d1117;"/>
+<sub><i>Custom-built animated banner — see setup note at the bottom if it doesn't load yet.</i></sub>
 
-<h1>Hi, I'm Mohid S 👋</h1>
+<br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=2800&pause=900&color=FFC75F&center=true&vCenter=true&width=780&lines=%3C+Software+Developer+%2F%3E;React+JS+%E2%80%A2+React+Native+%E2%80%A2+JavaScript;3%2B+years+shipping+real+web+%26+mobile+apps" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=1200&color=C86DD7&center=true&vCenter=true&width=780&lines=Turning+ideas+into+live+products;Currently+exploring+Java+%2B+Cloud+%2B+DevOps;Open+to+collaborations+%26+opportunities" alt="Typing SVG"/>
 
-<br/>
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/mohid-s-57207b416/"><img src="https://img.shields.io/badge/LinkedIn-FF6B9D?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/></a>
 <a href="mailto:mohammedmohid810@gmail.com"><img src="https://img.shields.io/badge/Email-FFC75F?style=for-the-badge&logo=gmail&logoColor=0d1117&labelColor=0d1117"/></a>
@@ -197,5 +197,6 @@ philosophy: "Clean UI. Clean code. Real impact." 🚀
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:FF6B9D,50:C86DD7,100:4D96FF"/>
 
 <div align="center">
-<sub>🐍 <b>To activate the contribution snake above:</b> add <code>snake.yml</code> to <code>.github/workflows/</code> in this repo, then run it once from the Actions tab.</sub>
+<sub>🎨 <b>To activate the hero banner:</b> add the attached <code>hero-banner.svg</code> to an <code>assets/</code> folder in this repo (path: <code>assets/hero-banner.svg</code>), matching the branch name in the README (<code>main</code>).<br/>
+🐍 <b>To activate the contribution snake:</b> add <code>snake.yml</code> to <code>.github/workflows/</code> in this repo, then run it once from the Actions tab.</sub>
 </div>
