@@ -77,31 +77,9 @@ philosophy: "Clean UI. Clean code. Real impact." 🚀
 
 <br/>
 
-<table align="center">
-<tr><td>
-
-**JavaScript**
-<img src="https://progress-bar.dev/90/?title=&width=280&color=FF6B9D"/>
-
-**React JS / React Native**
-<img src="https://progress-bar.dev/88/?title=&width=280&color=FFC75F"/>
-
-**Tailwind CSS**
-<img src="https://progress-bar.dev/85/?title=&width=280&color=C86DD7"/>
-
-</td><td>
-
-**Java**
-<img src="https://progress-bar.dev/65/?title=&width=280&color=4D96FF"/>
-
-**MongoDB**
-<img src="https://progress-bar.dev/70/?title=&width=280&color=FF6B9D"/>
-
-**HTML / CSS**
-<img src="https://progress-bar.dev/92/?title=&width=280&color=FFC75F"/>
-
-</td></tr>
-</table>
+<div align="center">
+<img src="https://raw.githubusercontent.com/Mohid555/Mohid555/main/assets/skills.svg" width="620"/>
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:FF6B9D,50:C86DD7,100:4D96FF" width="100%"/>
 
@@ -185,6 +163,6 @@ philosophy: "Clean UI. Clean code. Real impact." 🚀
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:FF6B9D,50:C86DD7,100:4D96FF"/>
 
 <div align="center">
-<sub>🎨 <b>To activate the hero banner:</b> add the attached <code>hero-banner.svg</code> to an <code>assets/</code> folder in this repo (path: <code>assets/hero-banner.svg</code>), matching the branch name in the README (<code>main</code>).<br/>
+<sub>🎨 <b>To activate the custom visuals:</b> create an <code>assets</code> folder in this repo and add both attached files there — <code>assets/hero-banner.svg</code> and <code>assets/skills.svg</code> — matching the branch name in the README (<code>main</code>).<br/>
 🐍 <b>To activate the contribution snake:</b> add <code>snake.yml</code> to <code>.github/workflows/</code> in this repo, then run it once from the Actions tab.</sub>
 </div>
